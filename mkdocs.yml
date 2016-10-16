@@ -1,0 +1,7 @@
+site_name: ZippyGigs | Documentation
+pages:
+- Home: 'index.md'
+- Reference:
+   - 'Authorization': 'reference/authorization.md'
+   - 'Vendors': 'reference/vendors.md'
+
