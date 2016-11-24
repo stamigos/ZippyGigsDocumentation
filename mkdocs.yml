@@ -6,4 +6,6 @@ pages:
    - 'Vendors': 'reference/vendors.md'
    - 'Client': 'reference/client.md'
    - 'Order': 'reference/order.md'
+   - 'Gig': 'reference/gig.md'
+
 

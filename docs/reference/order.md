@@ -1,5 +1,5 @@
 # [Order](order.md)
-## [POST /api/v1/order/get-orders/](order.md#get-apiv1orderget-orders)
+## [GET /api/v1/order/get-orders/](order.md#get-apiv1orderget-orders)
 Get orders for logged in user
 ### Input data
 Field name   | Type          | Description
