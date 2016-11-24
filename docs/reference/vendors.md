@@ -29,6 +29,7 @@ Field name   | Description
 	      "is_active": true, 
 	      "job_types": [
 	        {
+	          "hourly_rate": 5, 
 	          "id": 1, 
 	          "title": "Websites design"
 	        }
@@ -56,6 +57,7 @@ Field name   | Description
 	      "is_active": true, 
 	      "job_types": [
 	        {
+	        	"hourly_rate": 10, 
 	          "id": 4, 
 	          "title": "Babysitter"
 	        }
