@@ -5,4 +5,5 @@ pages:
    - 'Authorization': 'reference/authorization.md'
    - 'Vendors': 'reference/vendors.md'
    - 'Client': 'reference/client.md'
+   - 'Order': 'reference/order.md'
 
