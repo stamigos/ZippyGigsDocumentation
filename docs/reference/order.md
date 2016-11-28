@@ -53,4 +53,13 @@ Field name   | Type          | Description
 `description`| **Required**  | Description of work that should be done by vendor.
 `status_id`     | **Required**  | Order status (1 - Pending, 2 - Accepted, 3 - Rejected, 4 - Finished).
 
-### Response example
+
+## [POST /api/v1/order/change-order-status/](order.md#post-apiv1order-change-order-status)
+Change order status
+### Input data
+Field name   | Type          | Description
+------------ | ------------- | ------------
+`token`      | **Required**  | User authentication token for Authorization header.
+`status_id`     | **Required**  | Order status (1 - Pending, 2 - Accepted, 3 - Rejected, 4 - Finished).
+`order_id`   | **Required**  | Order's ID for change status operation.
+
